@@ -7,3 +7,5 @@ git commit -m "message"
 git remote add origin (url-github) => one time
 git push origin master
 git remote => to check remote urls 
+
+
