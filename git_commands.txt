@@ -1,0 +1,9 @@
+git init
+git add (file name)
+or
+git add .
+git status
+git commit -m "message"
+git remote add origin (url-github) => one time
+git push origin master
+git remote => to check remote urls 
